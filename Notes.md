@@ -1,0 +1,1 @@
+- when to use was seen and have seen and saw. Eg: I saw the dog, I have seen the dog, I was seen the dog.
